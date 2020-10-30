@@ -1,4 +1,4 @@
-import 'package:analog_clock_example/demo.dart';
+import './demo.dart';
 import 'package:flutter/material.dart';
 
 import 'package:analog_clock/analog_clock.dart';
