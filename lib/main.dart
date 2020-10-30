@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 import 'package:analog_clock/analog_clock.dart';
 
-void main() => runApp(MyApp());
-//void main() => runDemo();
+//void main() => runApp(MyApp());
+void main() => runDemo();
 
 class MyApp extends StatefulWidget {
   @override
